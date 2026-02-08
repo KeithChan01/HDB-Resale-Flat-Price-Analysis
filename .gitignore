@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# ARIMA checkpoints (regenerated at runtime)
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated exports
+*.html
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
